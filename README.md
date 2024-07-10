@@ -1,1 +1,2 @@
 # Atm
+This Java project implements a realistic ATM experience using OOP. It structures functionalities (balance inquiry, cash withdrawal) into classes like Account and ATM. Users authenticate to access their accounts protected by encapsulation. Consider inheritance for different account types (optional). Explore the code for polymorphism usage (e.g., handling withdrawals). This educational project showcases core OOP while providing a familiar ATM interface.
